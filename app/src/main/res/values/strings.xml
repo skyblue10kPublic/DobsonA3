@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">DobsonA3</string>
+    <string name="TextChooseWebsite">Please Choose A Website</string>
+    <string name="MesaCollege" translatable="false">Mesa College</string>
+    <string name="Yahoo" translatable="false">Yahoo!</string>
+    <string name="GoButton">Go</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="CloseWebView">Close</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CloseWebView">cerca</string>
+    <string name="GoButton">ir</string>
+    <string name="TextChooseWebsite">Elija un sitio web</string>
+    <string name="hello_blank_fragment" translatable="false">Ahola!</string>
+</resources>
